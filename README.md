@@ -8,6 +8,8 @@ abcdefghijklmnopqrstuvwxyz
 tercsabdfghijklmnopquvwxyz
 ```
 
+Uses an input and output file.
+
 ## Usage
 
 ```bash
