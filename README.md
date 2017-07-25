@@ -12,18 +12,18 @@ Uses an input and output file.
 
 ## Usage
 
-```bash
-$ python3 terces.py
-Key: terces
+<pre>
+$ <b>python3 terces.py</b>
+Key: <b>terces</b>
 Decrypt/Encrypt?
-(D/E) E
-```
-```bash
-$ python3 terces.py
-Key: tErCeS
+(D/E) <b>E</b>
+</pre>
+<pre>
+$ <b>python3 terces.py</b>
+Key: <b>tErCeS</b>
 Decrypt/Encrypt
-(D/E) D
-```
+(D/E) <b>D</b>
+</pre>
 
 ## Installation
 
